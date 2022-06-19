@@ -1,0 +1,15 @@
+Charts.js : https://www.chartjs.org/docs/latest/
+
+React : https://reactjs.org/docs/getting-started.html
+
+Express : https://expressjs.com/en/4x/api.html
+
+Node : https://nodejs.org/docs/latest-v17.x/api/
+
+Cors : https://expressjs.com/en/resources/middleware/cors.html
+
+Tailwind : https://tailwindcss.com/docs/guides/create-react-app
+
+CSS3 : https://developer.mozilla.org/en-US/docs/Web/CSS
+
+HTML5 : https://developer.mozilla.org/en-US/docs/Glossary/HTML5
